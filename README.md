@@ -16,3 +16,6 @@ Remplace `MasterKey` with your actual tokens / keys in [dist/server.js](https://
 const tumblr = require('tumblr.js');
 const client = tumblr.createClient(MasterKey);
 ```
+
+### StackOverflow
+[stackoverflow.com > questions > Tumblr.js 401 Unauthorized](https://stackoverflow.com/questions/45398498/tumblr-js-401-unauthorized)
